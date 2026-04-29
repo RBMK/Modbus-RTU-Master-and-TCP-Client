@@ -1,4 +1,7 @@
 Simple Modbus RTU Master and TCP client with selection of data types and other useful options not seen in other utilities.
+Set and read bits and registers with various data types.
+Draw graph.
+Save everything into CSV.
 
 This program comes with absolutely no warranty. 
 It can be unpredictable because of coded with Gemini. 
